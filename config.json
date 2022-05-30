@@ -1,15 +1,14 @@
-{
-    "ip": "katyty.aternos.me",
-    "port": "56074",
-    "name": "kartik",
-    "password": "",
-    "auto-night-skip": "false",
-    "prefix": "",
-    "login-enabled": "false",
-    "register-cmd": "/login kartikopp kartikopp",
-    "login-cmd": "/login kartikopp",
-    "loginmsg": "done",
-    "auto-reconnect": "true",
-    "web": "true"
-    
+ {
+ "ip": "VaoDiChoChi.aternos.me",
+ "port": "50887",
+ "name": "ADMINFAKE",
+ "password": "",
+ "auto-night-skip": "false",
+ "prefix": "",
+ "login-enabled": "false",
+ "register-cmd": "/login kartikopp kartikopp",
+ "login-cmd": "/login kartikopp",
+ "loginmsg": "Your any msg",
+ "auto-reconnect": "true",
+ "web": "true"  
 }
